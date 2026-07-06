@@ -153,3 +153,4 @@
 /home/jason-costa/workspace/C#ComEntityFramework/SistemaBibliotecaPOO/SistemaBiblioteca/obj/Debug/net10.0/SistemaBiblioteca.pdb
 /home/jason-costa/workspace/C#ComEntityFramework/SistemaBibliotecaPOO/SistemaBiblioteca/obj/Debug/net10.0/SistemaBiblioteca.genruntimeconfig.cache
 /home/jason-costa/workspace/C#ComEntityFramework/SistemaBibliotecaPOO/SistemaBiblioteca/obj/Debug/net10.0/ref/SistemaBiblioteca.dll
+/home/jason-costa/workspace/C#ComEntityFramework/SistemaBibliotecaPOO/SistemaBiblioteca/obj/Debug/net10.0/SistemaBiblioteca.sourcelink.json
